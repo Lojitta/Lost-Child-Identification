@@ -20,4 +20,4 @@ This project uses face recognition to identify lost children in public places by
 3. Run `face_match.py` to detect and match
 
 ## Author
-Lojitta Ravikumar
+Lojitta R
